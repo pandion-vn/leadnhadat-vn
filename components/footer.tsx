@@ -98,7 +98,7 @@ const Footer = () => {
           <div className="row align-items-center">
             <div className="col-sm-6">
               <div className="text-sm-start">
-                <p className="mb-0">©  Pandion. Made with <i className="mdi mdi-heart text-danger" /> in <a className="text-reset">HCM City</a>.</p>
+                <p className="mb-0">©  Leadnhadat. Made with <i className="mdi mdi-heart text-danger" /> in <a className="text-reset">HCM City</a>.</p>
               </div>
             </div>
           </div>

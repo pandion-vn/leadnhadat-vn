@@ -476,7 +476,7 @@ const HomeBlog = () => {
                     </div>
                   </div>
 
-                  <div className="widget">
+                  {/* <div className="widget">
                     <h5 className="widget-title">Follow us</h5>
                     <ul className="list-unstyled social-icon mb-0 mt-4">
                       <li className="list-inline-item">
@@ -536,7 +536,7 @@ const HomeBlog = () => {
                         </a>
                       </li>
                     </ul>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>

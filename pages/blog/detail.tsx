@@ -35,32 +35,32 @@ const BlogDetail = () => {
                     <a href="#" className="text-primary">
                       Software
                     </a>
-                    ,{' '}
+                    {' '}
                     <a href="#" className="text-primary">
                       Application
                     </a>
                   </h6>
                   <p className="text-muted mt-3">
-                    The most well-known dummy text is the 'Lorem Ipsum', which
-                    is said to have originated in the 16th century. Lorem Ipsum
-                    is composed in a pseudo-Latin language which more or less
-                    corresponds to 'proper' Latin. It contains a series of real
+                    The most well-known dummy text is the Lorem Ipsum, which is
+                    said to have originated in the 16th century. Lorem Ipsum is
+                    composed in a pseudo-Latin language which more or less
+                    corresponds to proper Latin. It contains a series of real
                     Latin words. This ancient dummy text is also
                     incomprehensible, but it imitates the rhythm of most
                     European languages in Latin script.{' '}
                   </p>
                   <blockquote className="blockquote mt-3 p-3">
                     <p className="text-muted mb-0 fst-italic">
-                      " There are many variations of passages of Lorem Ipsum
+                      There are many variations of passages of Lorem Ipsum
                       available, but the majority have suffered alteration in
                       some form, by injected humour, or randomised words which
-                      don't look even slightly believable. "
+                      dont look even slightly believable.
                     </p>
                   </blockquote>
                   <p className="text-muted">
                     The advantage of its Latin origin and the relative
                     meaninglessness of Lorum Ipsum is that the text does not
-                    attract attention to itself or distract the viewer's
+                    attract attention to itself or distract the viewers
                     attention from the layout.
                   </p>
                   <div className="post-meta mt-3">
@@ -392,7 +392,6 @@ const BlogDetail = () => {
                 </div>
               </div>
             </div>
-
           </div>
         </div>
       </section>

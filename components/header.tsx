@@ -6,8 +6,8 @@ const Header = () => {
       <div className="container">
         <Link className="logo" href="/">
           <img
-            src="/images/pandion-logo-light.svg"
-            height="60"
+            src="/images/leadnhadat-logo-wh.svg"
+            height="45"
             className="logo-light-mode"
             alt=""
           />
